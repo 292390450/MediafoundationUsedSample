@@ -7,6 +7,7 @@
     <!--<ApplicationManifest>app.manifest</ApplicationManifest>-->
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
+  <AvaloniaVersion>11.0.5</AvaloniaVersion>
   </PropertyGroup>
 
   <ItemGroup>
